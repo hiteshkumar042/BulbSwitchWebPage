@@ -8,3 +8,7 @@ Project Deliverables:
 2. A virtual switch that can be toggled on and off with a mouse click or touch.
 3. A virtual bulb that turns on and off in response to the state of the switch.
 4. User feedback indicating the current state of the switch and bulb.
+
+
+You can access the project by clicking on the link below:
+https://hiteshkumar042.github.io/BulbSwitchWebPage/
